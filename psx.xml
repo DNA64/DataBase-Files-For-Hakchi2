@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+  <Game>
+    <name>Resident Evil Survivor</name>
+    <players>1</players>
+    <simultaneous>0</simultaneous>
+    <crc></crc>
+    <date>200-08-30</date>
+    <publisher>CAPCOM</publisher>
+    <region>USA</region>
+    <status>GREAT</status>
+    <cover>http://thegamesdb.net/banners/_gameviewcache/boxart/original/front/10651-1.jpg</cover>
+    <api_id>10651</api_id>
+  </Data>
